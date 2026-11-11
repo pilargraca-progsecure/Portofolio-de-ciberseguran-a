@@ -1,11 +1,11 @@
 ## Portofolio-de-cibersegurança
 Aprendizagens básicas de cibersegurança e outros materiais tecnológicos.
 ## Sobre mim e meus objetivos
-Olá,a todos! Venho aqui partilhar a minha jornada até alcançar os meus objteivos.Atualmente, tenho 16 anos e estou no 11º ano de CT em Potugal e tenho como objetivo principal tornar-me engenheira de cibersegurança no futuro.
-## Certificados obtidos
+Olá! Venho aqui partilhar a minha jornada até alcançar os meus objteivos. Atualmente, tenho 16 anos e estou no 11º ano de CT e tenho como objetivo principal tornar-me engenheira de cibersegurança no futuro.
+## Certificados
 -Cidadão Ciberseguro - CNCS/NAU
 - Cidadão Cibersocial - CNCS/NAU
-## Atualmente em apredizagem
+## Apredizagem
 - TryHackMe- Pre Security
 ## Projetos
 - Notas de estudo
