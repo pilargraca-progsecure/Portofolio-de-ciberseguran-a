@@ -7,5 +7,5 @@ Olá,a todos! Venho aqui partilhar a minha jornada até alcançar os meus objtei
 - Cidadão Cibersocial - CNCS/NAU
 ## Atualmente em apredizagem
 - TryHackMe- Pre Security
-## Planos e esboços
+## Projetos
 - Notas de estudo
